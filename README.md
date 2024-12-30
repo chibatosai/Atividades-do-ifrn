@@ -6,6 +6,6 @@ Foi ultilizado a versão e documentação do próprio desenvolvedor do Python.or
 Também é necessário instalar o Ollama
 Foi ultilizado o do próprio desenvolvedor do https://ollama.com/download
 
-# ollama pull mxbai-embed-large
-# pip install matplotlib
-# pip install scikit-learn
+ ollama pull mxbai-embed-large
+ pip install matplotlib
+ pip install scikit-learn
